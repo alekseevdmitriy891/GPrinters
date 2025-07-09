@@ -1,3 +1,3 @@
-##GPRINTERS##
-Createn For Some Servers
-And Is Customizable
+##GPRINTERS##/n
+Createn For Some Servers/n
+And Is Customizable/n
